@@ -1,0 +1,13 @@
+C:\Users\boonkhai\Source\Repos\Spinning Wheel\Spinning Wheel\bin\Debug\Spinning Wheel.exe.config
+C:\Users\boonkhai\Source\Repos\Spinning Wheel\Spinning Wheel\bin\Debug\Spinning Wheel.exe
+C:\Users\boonkhai\Source\Repos\Spinning Wheel\Spinning Wheel\bin\Debug\Spinning Wheel.pdb
+C:\Users\boonkhai\Source\Repos\Spinning Wheel\Spinning Wheel\bin\Debug\Spinning Wheel.xml
+C:\Users\boonkhai\Source\Repos\Spinning Wheel\Spinning Wheel\obj\Debug\Spinning Wheel.vbprojAssemblyReference.cache
+C:\Users\boonkhai\Source\Repos\Spinning Wheel\Spinning Wheel\obj\Debug\Spinning_Wheel.Resources.resources
+C:\Users\boonkhai\Source\Repos\Spinning Wheel\Spinning Wheel\obj\Debug\Spinning Wheel.vbproj.GenerateResource.cache
+C:\Users\boonkhai\Source\Repos\Spinning Wheel\Spinning Wheel\obj\Debug\Spinning Wheel.vbproj.CoreCompileInputs.cache
+C:\Users\boonkhai\Source\Repos\Spinning Wheel\Spinning Wheel\obj\Debug\Spinning Wheel.exe
+C:\Users\boonkhai\Source\Repos\Spinning Wheel\Spinning Wheel\obj\Debug\Spinning Wheel.xml
+C:\Users\boonkhai\Source\Repos\Spinning Wheel\Spinning Wheel\obj\Debug\Spinning Wheel.pdb
+C:\Users\boonkhai\Source\Repos\Spinning Wheel\Spinning Wheel\obj\Debug\Spinning_Wheel.frmmain.resources
+C:\Users\boonkhai\Source\Repos\Spinning Wheel\Spinning Wheel\obj\Debug\Spinning_Wheel.frmTesting.resources
